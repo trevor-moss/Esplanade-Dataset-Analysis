@@ -1,5 +1,8 @@
 # Esplanade-Dataset-Analysis
 
+For Prof. Schaaf's WR120L8 - Kinds of Minds
+Essay 2
+
 analysis.ipynb for the code used to analyze the dataset and create plots - warning: the once organized file got messy :(
 
 
